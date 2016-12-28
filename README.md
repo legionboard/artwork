@@ -1,7 +1,7 @@
 # Artwork
 
 This repository contains several stuff used in different projects of
-[LegionBoard](https://legionboard.github.io/).
+[LegionBoard](http://legionboard.org/).
 
 ## License
 
