@@ -1,7 +1,7 @@
 # Artwork
 
 This repository contains several stuff used in different projects of
-[LegionBoard](http://legionboard.org/).
+[LegionBoard](https://legionboard.dorfbrunnen.eu/).
 
 ## License
 
